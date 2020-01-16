@@ -1,0 +1,6 @@
+C:\Users\Juan Pablo\Documents\GitHub\ejercicioTecnicoBicis\bicicletas\bicicletas\bin\Debug\bicicletas.exe.config
+C:\Users\Juan Pablo\Documents\GitHub\ejercicioTecnicoBicis\bicicletas\bicicletas\bin\Debug\bicicletas.exe
+C:\Users\Juan Pablo\Documents\GitHub\ejercicioTecnicoBicis\bicicletas\bicicletas\bin\Debug\bicicletas.pdb
+C:\Users\Juan Pablo\Documents\GitHub\ejercicioTecnicoBicis\bicicletas\bicicletas\obj\Debug\bicicletas.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\GitHub\ejercicioTecnicoBicis\bicicletas\bicicletas\obj\Debug\bicicletas.exe
+C:\Users\Juan Pablo\Documents\GitHub\ejercicioTecnicoBicis\bicicletas\bicicletas\obj\Debug\bicicletas.pdb
